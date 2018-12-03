@@ -11,4 +11,9 @@ public class LoginPage {
 	{
 		System.out.println("Login Set");
 	}
+	
+	public void loginEnd()
+	{
+		System.out.println("Login End");
+	}
 }
